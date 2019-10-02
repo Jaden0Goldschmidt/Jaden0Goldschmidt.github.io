@@ -18,7 +18,7 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
-body {
+body { background-color: #3CB371;
   line-height: 1; }
 h1{font-size: 8em;}
 ol, ul {
