@@ -1,4 +1,4 @@
-html, body, div, span, applet, object, iframe,
+/* html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -55,4 +55,15 @@ a {
     color: #009ce0; }
 
 #main {
-  padding: 50px; }
+  padding: 50px; } */
+
+div#first{
+  border-color:maroon 30px;
+  text-align: center;  
+}
+div#third.image{ 
+  align-content: center;
+}
+body{
+  background-color: rgb(132, 175, 175);
+}
