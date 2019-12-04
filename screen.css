@@ -71,6 +71,7 @@ body{
 .zagster-image {
   width: 400px;
   float: bottom;
+  border: 2px solid black;
 }
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 /* body {
