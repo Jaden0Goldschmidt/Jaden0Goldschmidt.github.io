@@ -69,8 +69,8 @@ body{
 }
 
 .zagster-image {
-  width: 200px;
-  float: right
+  width: 400px;
+  float: bottom;
 }
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 /* body {
